@@ -1,0 +1,14 @@
+name = "OpcUaServerApp"
+uuid = "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+version = "0.1.0"
+authors = ["lmwu"]
+
+[deps]
+Open62541 = "e9b70463-8ccb-4e30-a2e2-0d1ec8db6536"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+Open62541 = "0.4.0"
+Printf = "1.11.0"
+Random = "1.11.0"
